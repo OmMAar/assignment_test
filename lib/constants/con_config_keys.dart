@@ -1,0 +1,4 @@
+class AppConfigKeys {
+  AppConfigKeys._();
+
+}
